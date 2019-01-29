@@ -2,10 +2,10 @@
 
               HOME
               PÉDAGOGIE 
-               |  >   Le Peer-learning 
-               |  >   La Gamification 
-               |  >   2 Ans de voyage 
-               |  >   Une école OpenSource 
+               |  >  Le Peer-learning 
+               |  >  La Gamification 
+               |  >  2 Ans de voyage 
+               |  >  Une école OpenSource 
               L'ECOLE 
                |  >  La piscine 
                |  >  Le programme 

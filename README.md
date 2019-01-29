@@ -24,7 +24,7 @@ La structure des fichiers et des dossiers qui suit :
 #### NaN Open-source
     - / opensource - dossier contenant tout les href des fichiers html du menu nan.opensource.ci
     - / nan.opensource.html - est le lien du site principal nan opensource
-A l'interieur de chaque dossier il se trouve un document readme pour vous prentez ce qui doit étre dans ce dossier.
+A l'interieur de chaque dossier il se trouve un document readme pour vous presentez ce qui doit être dans ce dossier.
 
 ##### NB : A LA FIN DU PROJET JE PRESENTERAI A L'ENSEMBLE DES MEMBRES PARTICIPANT LE TAUX DE PARTICIPATION DE CHAQUES MEMBRES.
 Sur la base

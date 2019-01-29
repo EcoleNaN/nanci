@@ -39,6 +39,4 @@
                |  >  Groupe Privé Discord        
               JE CANDIDATE 
           
-ce menu s'applique sur index.html et les href de rédirection de tout ce qui concerne se projet doit etre dans le dosier nan et non dans la racine             
-
-
+ce menu s'applique sur index.html et les href de rédirection de tout ce qui concerne se projet doit étre dans le dossier nan et non à la racine             

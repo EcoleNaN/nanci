@@ -15,15 +15,15 @@ La structure des fichiers et des dossiers qui suit :
 
 #### NaN Pedagogy
     - / nan - dossier contenant tout les href des fichiers html du menu nan.ci
-    - / index.html est le lien du site principal nan pédagogié
+    - / index.html - est le lien du site principal nan pédagogie
 
 #### NaN Business
     - / business - dossier contenant tout les href des fichiers html du menu nan.business.ci
-    - / nan.business.html est le lien du site principal nan business
+    - / nan.business.html - est le lien du site principal nan business
 
 #### NaN Open-source
     - / opensource - dossier contenant tout les href des fichiers html du menu nan.opensource.ci
-    - / nan.opensource.html est le lien du site principal nan opensource
+    - / nan.opensource.html - est le lien du site principal nan opensource
 A l'interieur de chaque dossier il se trouve un document readme pour vous prentez ce qui doit étre dans ce dossier.
 
 ##### NB : A LA FIN DU PROJET JE PRESENTERAI A L'ENSEMBLE DES MEMBRES PARTICIPANT LE TAUX DE PARTICIPATION DE CHAQUES MEMBRES.

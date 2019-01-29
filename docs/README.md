@@ -1,3 +1,4 @@
+il s'agit ici de proposer des idées de contnu Web
 ### Explications des fichiers du Docs
 #### Fichiers
     - nan.pedagogie.md   / menu du site nan (index.html) en format md

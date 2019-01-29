@@ -1,9 +1,9 @@
-### Bienvenue Chèrs Naniens 1.18 pour le projet NaN PEDAGOGY, NaN BUSINESS & NaN OPENSOURCE 
-#### Consignes de travail collaboratif à respecter à la lettre
+### Bienvenue Chèrs Naniens 1.18 
+pour le projet NaN PEDAGOGY, NaN BUSINESS & NaN OPENSOURCE
 les équipes TREEBOYS,  CODEMAKERS, CODEROOM & CHECKMYCODE
-je vous presente l'architecture du site
-
-### La structure des fichiers et des dossiers ressemble à ceci:
+je vous presente l'architecture du site.
+NB : Pour faciliter le travail collaboratif vous devez respecter à la lettre
+La structure des fichiers et des dossiers qui suit :
 
 #### Principale : dossier qui s'applique sur les 3 projets
     - / docs - le dossier contenant les différents contenue des trois sites NaN et le menu détail de chaque site A visité obligatoirements

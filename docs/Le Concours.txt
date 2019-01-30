@@ -1,0 +1,6 @@
+Le Concours
+Pour entrer à NaN, le premier test du concours est basé sur la logique , 
+un exercice sans énoncé, le candidat est vite amené à faire appel a son imagination, 
+ensuite après avoir validé le test N°1, pour le second test, le candidat est invité à 
+regarder une vidéo d'algorithmique suivi d'un quiz, ce qui nous permet de savoir 
+la force de compréhension de chacun des candidats.

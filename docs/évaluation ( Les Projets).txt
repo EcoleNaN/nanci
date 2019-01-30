@@ -1,0 +1,4 @@
+évaluation : Les Projets
+chaque Module est accompagné d'un terme, et ces dans ces termes qu'ils sont invités à réaliser un projet.
+exemple du mois de développement web avec le terme "tourisme", l'étudiant peut  alors développer un site web d'un restaurent ou hôtel.
+la réalisation des projets apporte des notes à l'étudiant.

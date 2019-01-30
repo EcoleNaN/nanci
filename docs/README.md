@@ -22,4 +22,4 @@ il s'agit ici de proposer des idées de contnu Web
     - Header.nan   / contenant le fichier html/css/js pour le header selectionné pour le site
     - projet farid / une copie du site de Mr Farid (NB : pour faire fonctionné il faut deposer sur ton wamp ou xamp)
     
-### La proposition de tout un chacun est la bienvenue 
+### La proposition de tout un chacun est la bienvenue.

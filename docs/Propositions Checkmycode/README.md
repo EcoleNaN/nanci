@@ -1,4 +1,4 @@
-### En travaillant sur le fichier example.nan se trouvans dans le dossier Docs
+### En travaillant sur le fichier Header.nan se trouvans dans le dossier Docs
 ### Proposez la page index.html suivant les principe suivants
 - Presentation de NaN
 - Module de formation

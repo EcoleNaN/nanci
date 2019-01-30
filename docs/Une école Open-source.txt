@@ -1,0 +1,8 @@
+﻿Une école Open-source
+Des cours, mais pas de profs : à NaN, ce sont les étudiants eux‐mêmes 
+qui sont en charge de leur réussite et de la réussite de leurs camarades, autour 
+d’un cursus 100% pratique et projet. Pour progresser sur les projets qui leur 
+sont proposé(e)s, ils doivent compter sur la force du groupe, donner et recevoir 
+des informations, être tour à tour formateur et apprenant. Ce mode d’apprentissage 
+peer‐to‐peer supprime les liens de subordination des étudiants. Chacun est le garant
+d’une partie de la réussite du projet mené à bien toute ensemble.

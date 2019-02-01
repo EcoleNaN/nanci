@@ -32,6 +32,32 @@ or change rounded corners from Bootstrap default values
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+#container {
+  overflow: hidden;
+  width:100vw;
+  height: 100vh;
+}
+#body1 {
+  color: #B2BED6;
+  font-family:'Proxima Nova', sans-serif;
+  font-size:13px;
+  line-height: 1.6;
+  background-color: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+
+#body1 {
+  background: url(../world.jpg) no-repeat center center fixed; 
+  background: url(../stars.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;

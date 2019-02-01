@@ -1,0 +1,64 @@
+/* Loader */
+.loader {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    z-index: 10010;
+    overflow: hidden;
+
+}
+.loader .loader-pulse, .loader-pulse1, .loader-pulse2 {
+    position: absolute;
+    top: calc(50% - 75px);
+    left: calc(50% - 35px);
+    background-color: none;
+    border:20px solid purple;
+    border-bottom: 0;
+    border-right: 0;
+    transform: translate(-50%, -50%);
+    -webkit-animation: scaleout 1.0s infinite ease-in-out;
+    animation: scaleout 1.0s infinite ease-in-out;
+}
+
+.loader-pulse{
+    width: 85px;
+    height: 85px;
+}
+.loader-pulse1{
+    width: 50px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+.loader-pulse2{
+    width: 10px;
+    height: 10px;
+    margin-left: 70px;
+    margin-top: 70px;
+    background-color: purple;
+
+}
+
+@-webkit-keyframes scaleout {
+    0% {
+        transform: scale(0);
+        -webkit-transform: scale(0);
+    }
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 0
+    }
+}
+@keyframes scaleout {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0)
+    }
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 0
+    }
+}

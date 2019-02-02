@@ -1,0 +1,330 @@
+ 
+ 
+ 
+ 
+ a:hover{
+    text-decoration: none;
+}
+.marge{
+    margin-bottom: 50px;
+}
+
+
+
+
+.titre-autres-page{
+    font-family: 'Playfair Display', serif;
+    font-size: 6em;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    text-transform: capitalize;
+}
+
+.hauteur{
+    height: 500px;
+}
+
+.monBreadcrumb{
+  background: #e6e6e6;
+  padding: 17px 0px 17px;
+}
+
+.contenu-breadcrumb{
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contenu-breadcrumb a{
+  color: #370286ab;
+  transition: .1s;
+}
+
+.contenu-breadcrumb a:hover{
+  color: #370286;
+  transition: .1s;
+}
+
+.un{
+    padding-top: 50px;
+    background:linear-gradient(#370286a1,rgba(255, 255, 255, 0.747),rgb(255, 255, 255)), url('../img/back.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.titre{
+    font-family: 'Playfair Display', serif;
+    font-size: 4.5em;
+    font-weight: 500;
+    margin-bottom: 50px;
+
+}
+
+.titre-petit{
+    font-family: 'Playfair Display', serif;
+    font-size: 4em;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+
+.explain{
+    color: #4c5258!important;
+    font-size: 20px;
+    line-height: 1.9em;
+    text-align: center;
+    padding: 0px 100px 0px;
+}
+
+
+.azerty {
+    margin: auto;
+    width: 60px;
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+.azerty:before, .azerty:after {
+    content: '';
+    width: 120px;
+    transform: translateY( 7px );
+    height: 1px;
+    background: #ccc;
+    position: absolute;
+}
+
+.azerty:before {
+    right: 100%;  
+}
+.azerty:after {
+    left: 100%;  
+}
+
+.btn1{
+    border-radius: 0px;
+    padding: 16px 24px;
+    border: 2px solid #370286;
+    font-size: 20px;
+    color: #370286;
+    box-shadow: 20px 10px 10px #dbdbdb;
+    transition: .3s;
+    background: #fff;
+
+}
+
+.btn1:hover{
+    color: #777fff;
+    border: 2px solid #777fff;
+    box-shadow: none;
+    transition: .3s;
+}
+
+.deux{
+    padding-top: 100px;
+    background:linear-gradient(rgba(255, 255, 255, 0.993),rgba(255, 255, 255, 0.753), rgba(255, 255, 255, 0.37),rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.37), rgba(255, 255, 255, 0.699), rgba(255, 255, 255, 0.993)), url('../img/left1.png') top left  no-repeat;
+    background-size: contain;
+}
+
+.trois{
+  padding-top: 100px;
+    padding-bottom: 100px;
+    background:linear-gradient(rgba(255, 255, 255, 0.993),rgba(255, 255, 255, 0.753), rgba(255, 255, 255, 0.37),rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.37), rgba(255, 255, 255, 0.699), rgba(255, 255, 255, 0.993)), url('../img/right.png') bottom right  no-repeat;
+    background-size: contain;
+}
+
+
+#center{
+    display: flex; 
+    align-content: center;
+     align-items: center;
+     margin: auto;
+}
+
+.hr-simple{
+    background: #e6e6e6;
+    height: .1px;
+    width: 33%;
+}
+
+.quatre{
+    margin-top: 100px;
+}
+
+/*-------------------------------
+
+  FOOTER 
+-------------------------------------*/
+
+#footer {
+  background: url('../img/fond.jpg') center center;
+  background-size: contain;
+    padding: 0 0 10px 0;
+    color: #eee;
+    font-size: 14px;
+  }
+  
+  #footer .footer-top {
+    background: #1b1f2a;
+    padding: 60px 0 30px 0;
+  }
+  
+  #footer .footer-top .footer-info {
+    margin-bottom: 30px;
+  }
+  
+  #footer .footer-top .footer-info h3 {
+    font-size: 34px;
+    margin: 0 0 20px 0;
+    padding: 2px 0 2px 10px;
+    line-height: 1;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    letter-spacing: 3px;
+    border-left: 4px solid #777fff;
+  }
+  
+  #footer .footer-top .footer-info p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Josefin", sans-serif;
+    color: #eee;
+  }
+  
+  #footer .footer-top h4 {
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+  }
+  
+  #footer .footer-top h4::before, #footer .footer-top h4::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+  }
+  
+  #footer .footer-top h4::before {
+    right: 0;
+    background: #555;
+  }
+  
+  #footer .footer-top h4::after {
+    background: #777fff;
+    width: 60px;
+  }
+  
+  #footer .footer-top .footer-links {
+    margin-bottom: 30px;
+  }
+  
+  #footer .footer-top .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #footer .footer-top .footer-links ul i {
+    padding-right: 8px;
+    color: #ddd;
+  }
+  
+  #footer .footer-top .footer-links ul li {
+    border-bottom: 1px solid #333;
+    padding: 10px 0;
+  }
+  
+  #footer .footer-top .footer-links ul li:first-child {
+    padding-top: 0;
+  }
+  
+  #footer .footer-top .footer-links ul a {
+    color: #eee;
+    font-size: 16px;
+  }
+  
+  #footer .footer-top .footer-links ul a:hover {
+    color: #777fff;
+  }
+  
+  #footer .footer-top .footer-contact {
+    margin-bottom: 30px;
+    font-size: 16px;
+
+  }
+  
+  #footer .footer-top .footer-contact p {
+    line-height: 26px;
+  }
+  
+  #footer .footer-top .footer-newsletter {
+    margin-bottom: 30px;
+  }
+  
+  #footer .footer-top .footer-newsletter input[type="email"] {
+    border: 0;
+    padding: 6px 8px;
+    width: 65%;
+  }
+  
+  #footer .footer-top .footer-newsletter input[type="submit"] {
+    background: #777fff;
+    border: 0;
+    width: 35%;
+    padding: 6px 0;
+    text-align: center;
+    color: #fff;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  
+  #footer .footer-top .footer-newsletter input[type="submit"]:hover {
+    background: #13a456;
+  }
+  
+  #footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 17px;
+  }
+  
+  #footer .credits {
+    text-align: center;
+    font-size: 15px;
+  }
+  
+  #footer .credits a {
+      color: #777fff;
+  }
+ 
+
+
+
+  /*-------------------------------
+
+  PISCINE.html
+
+-------------------------------------*/
+
+.un-piscine{
+    background: url('../img/fond.jpg') center no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.piscine-contenu{
+ 
+}
+
+.bg-red{
+  background: red;
+}
+
+.temporaire{
+  height: 500px;
+}
+

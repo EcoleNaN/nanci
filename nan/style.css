@@ -1,0 +1,247 @@
+
+li{
+  list-style-image: url("/img/logo-nan.png");  
+}
+
+.new{
+    height: 32px;
+    background: #f1f1f1;
+    margin: 3px;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  #wrapper a span {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    width: 25px;
+    height: 25px;
+    margin-left: -12px;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-animation: sdb05 1.5s infinite;
+    animation: sdb05 1.5s infinite;
+    box-sizing: border-box;
+  }
+  
+  @-webkit-keyframes sdb05 {
+    0% {
+      -webkit-transform: rotate(-45deg) translate(0, 0);
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: rotate(-45deg) translate(-20px, 20px);
+      opacity: 0;
+    }
+  }
+  @keyframes sdb05 {
+    0% {
+      transform: rotate(-45deg) translate(0, 0);
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      transform: rotate(-45deg) translate(-20px, 20px);
+      opacity: 0;
+    }
+  }
+  
+  
+  .btnfoot{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background: #f1f1f1;
+    margin: 3px;
+    border-radius: 50%;
+    color: #777fff;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .btnfoot i{
+    line-height: 32px;
+    font-size: 18px;
+    transition: 0.2s linear;
+  }
+  
+  .btnfoot:hover i{
+    transform: scale(1.3);
+    color:#f1f1f1;
+  }
+  
+  .in:hover{
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  }
+  
+  .twitter:hover{
+  background: #1da1f2;
+  }
+  
+  .facebook:hover{
+  background: rgb(59,89,152);
+  }
+  
+  .google:hover{
+  background: #d34836;
+  }
+  
+  .in:hover{
+  background: #2b3235;
+  }
+  
+  .tube:hover{
+  background: #f3231c;
+  
+  }
+  
+  body {
+  color: #B2BED6;
+  font-family:'Proxima Nova', sans-serif;
+  font-size:13px;
+  line-height: 1.6;
+  background-color: #fff;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  }
+
+  
+  #wrapper {
+  overflow: hidden;
+  width:100vw;
+  height: 100vh;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: #bc1888 10px double;  
+  }
+  
+  #container {
+  overflow: hidden;
+  width:100vw;
+  height: 100vh;
+  }
+  
+  @media only screen and (max-width: 768px) {
+  #logo {
+    font: normal 100 40px/100% 'Proxima Nova', sans-serif;
+    letter-spacing: 1rem;
+    margin-left:.5rem;
+  }
+  
+  }
+  
+  @media only screen and (max-width: 768px) {
+  .o-grid__item {top: 0; left: 10px; margin-top:0;}
+  .content-overlay {font-size: 1em;}
+  #fp-nav, .section h1  {display: none;}
+  .section h2 {font-size: 2.3rem}
+  .credit {bottom:20px;}
+  .content-overlay a.join {bottom:auto; top:40px;}
+  
+  }
+  /* Loader */
+.loader {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  z-index: 10010;
+  overflow: hidden;
+
+}
+.loader .loader-pulse, .loader-pulse1, .loader-pulse2 {
+  position: absolute;
+  top: calc(50% - 75px);
+  left: calc(50% - 35px);
+  background-color: none;
+  border:20px solid purple;
+  border-bottom: 0;
+  border-right: 0;
+  transform: translate(-50%, -50%);
+  -webkit-animation: scaleout 1.0s infinite ease-in-out;
+  animation: scaleout 1.0s infinite ease-in-out;
+}
+
+.loader-pulse{
+  width: 85px;
+  height: 85px;
+}
+.loader-pulse1{
+  width: 50px;
+  height: 50px;
+  margin-left: 35px;
+  margin-top: 35px;
+}
+.loader-pulse2{
+  width: 10px;
+  height: 10px;
+  margin-left: 70px;
+  margin-top: 70px;
+  background-color: purple;
+
+}
+
+@-webkit-keyframes scaleout {
+  0% {
+      transform: scale(0);
+      -webkit-transform: scale(0);
+  }
+  100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      opacity: 0
+  }
+}
+@keyframes scaleout {
+  0% {
+      -webkit-transform: scale(0);
+      transform: scale(0)
+  }
+  100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      opacity: 0
+  }
+}
+.toTop {
+  display: none;
+  text-decoration: none;
+  z-index: 600;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 50%;
+  text-align: center;
+  background-color: rgba(33, 33, 33, 0.6);
+  color: #fff;
+  font-size: 16px;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+  padding-top: 8px;
+
+}
+.toTop:hover,
+.toTop:focus {
+  color: #fff;
+}
+.toTop {
+  bottom: 15px;
+  right: 15px;
+}

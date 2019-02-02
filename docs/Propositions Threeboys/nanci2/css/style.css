@@ -456,7 +456,68 @@ img {
     text-decoration: none;
     color: #fff;
 }
+ 
+ /*
 
+ #section02{
+    padding-bottom: 30px;
+   
+}
+
+.nan-inan{
+  background: url('img/Inan.jpg') center center;
+  background-size: cover;
+}
+
+
+.thumbnail {
+  margin-top: -50px;
+  background: #fff;
+  border-radius: 10px;
+  height: auto;
+  width: 100%;
+  -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  overflow: hidden;
+}
+
+.thumbnail-bas {
+  margin-top: -20px;
+  background: #fff;
+  border-radius: 10px;
+  height: auto;
+  width: 100%;
+  -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
+  overflow: hidden;
+}
+
+.titre{
+  color: #2d7e45;
+  font-family: 'Mukta',sans-serif;
+  margin-bottom: 15px;
+  font-size: 23px;
+  text-align: center;
+  padding: 10px;
+}
+
+.crochet{
+  color: #111433e1; 
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.explain{
+  font-size: 20px;
+  line-height: 1.2em;
+  font-family: 'Josefin Sans',sans-serif;
+  text-align: center;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  padding-right: 15px;
+}*/
 
 
 

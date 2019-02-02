@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+	<head>
+        <title>Not a Number</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+        <!-- Main CSS --> 
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- Font Awesome -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="theme-color" content="#ffffff">
+        <script src="//cdn.rawgit.com/mrdoob/three.js/master/build/three.min.js"></script>
+        <script>
+
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-20462557-9');
+        </script>
+
+    </head>
+  
+    <body id="home" data-spy="scroll" data-target="#navbar-top" data-offset="200">
+        
+        <!-- Main navigation -->
+        <nav id="navbar-top" class="navbar fixed-top navbar-expand-md navbar-dark">
+            <div class="container">
+                
+                <!-- Company name shown on mobile -->
+                <a class="navbar-brand" href="#"><span>NOT</span><STRONG> A</STRONG> NUMBER</a>
+
+                <!-- Mobile menu toggle -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Main navigation items -->
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav mr-auto">
+                        <li data-toggle="collapse" data-target=".navbar-collapse.show" class="nav-item">
+                                <a class="nav-link" href="#home">HOME 1</a>
+                        </li>
+
+                        <li data-toggle="collapse" data-target=".navbar-collapse.show" class="nav-item">
+                                <a class="nav-link" href="#about">HOME 2</a>
+                        </li>
+
+
+                        <li data-toggle="collapse" data-target=".navbar-collapse.show" class="nav-item">
+                                <a class="nav-link" href="#style-examples">HOME 3</a>
+                        </li>
+
+                        <li data-toggle="collapse" data-target=".navbar-collapse.show" class="nav-item">
+                                <a class="nav-link" href="#three-column">HOME 4</a>
+                        </li>
+
+                        <li data-toggle="collapse" data-target=".navbar-collapse.show" class="nav-item">
+                                <a class="nav-link" href="#one-column">HOME 5</a>
+                        </li>
+                        <li data-toggle="collapse" data-target=".navbar-collapse.show" class="nav-item">
+                                <a class="nav-link" href="#contact">HOME 6</a>
+                        </li>
+                    </ul>
+                    
+                   
+                </div>
+                
+                
+                
+            </div>
+        </nav>
+        
+       
+
+        <!-- Jumbtron / Slider -->
+        <div id="body1">
+            <div id="container">
+
+                
+            </div>
+        </div>
+
+        <!-- Welcome content area -->
+        <section id="weclome" class="card-container">
+            <div class="container">
+   
+                <div class="text-center padded-box pb-0">
+                        <h2 class="jumbotron-wrap">PRESENTATION</h2>
+                        <p class="lead">Se construire son savoir, se spécialiser dans le domaine qui nous facine le plus. A NaN Nous pensons que tout un chacun a un Talent, la première année de programmation à NaN n'est que l'étape initiale de la découverte de soi.</p>
+
+                </div>
+                
+
+
+                <div class="padded-box row">
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic1.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text">Un environnnement de travail parfait qui procure aux etudiant une autonomie avec des équipements nécéssaire à l'apprentissage de l'informatique. </p>
+                              <a href="#" class="btn btn-secondary">Aller à la découverte</a>
+                             </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic2.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text">Une solidarité dans le trvail en equipe en vue de produire des réalisations hors-paire et collaboré avec des dévancier de l'informatique.</p>
+                              <a href="#" class="btn btn-secondary">Aller à la découverte</a>
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic3.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text">En plus que Nan soit gratuit ,une connexion internet est mis a la disposition des étudiants en vue de les faciliter l'acces a des ressources pedagogique d'internet. </p>
+                              <a href="#" class="btn btn-secondary">Aller à la découverte</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+ <script type="text/javascript">
+            var camera, scene, renderer;
+var geometry, material, mesh;
+
+init();
+animate();
+
+function init() {
+
+    camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.01, 10 );
+    camera.position.z = 1;
+
+    scene = new THREE.Scene();
+
+    geometry = new THREE.BoxGeometry( 0.2, 0.2, 0.2 );
+    material = new THREE.MeshNormalMaterial();
+
+    mesh = new THREE.Mesh( geometry, material );
+    scene.add( mesh );
+
+    renderer = new THREE.WebGLRenderer( { antialias: true } );
+    renderer.setSize( window.innerWidth, window.innerHeight );
+    document.body.appendChild( renderer.domElement );
+
+}
+
+function animate() {
+
+    requestAnimationFrame( animate );
+
+    mesh.rotation.x += 0.01;
+    mesh.rotation.y += 0.02;
+
+    renderer.render( scene, camera );
+
+}
+        </script>
+        
+        
+        
+        <!-- About section -->
+        <section id="about" class="colored-bg">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Main content -->
+                    <div class="col-md-8">
+                        <article>
+                            <h2 class="article-title jumbotron-wrap">MODULE DE FORMATION</h2>
+
+                    
+
+                            <p>Ecole de programmation atypique et opensource.
+                            </p>	
+
+                            <p><strong>Les module de formation de Nan sont des modules de tout type.</strong><br> Partant de la programmation web jusqu'à la programmation mobile passant par diverse domaine de l'informatique qui sont en rapport à la programmation.</p>
+
+                        </article>
+
+                        <article>
+
+          <div class="jumbotron-wrap jumbotron-wrap-image mb-0">
+            <div class="container">
+                <div id="mainCarousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner" style="width: 100%; ">
+                        <div class="carousel-item active" style="background-image: url(images/campus22.jpg) ;background-repeat: no-repeat; width: 100%">
+                            <div class="jumbotron">
+                                <h1 class="text-center">programmation web</h1>
+                                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                            </div>
+                        </div>
+
+                        <div class="carousel-item" >
+                            <div class="jumbotron">
+                                <h1 class="text-center">Programmation mobile</h1>
+                                <p class="lead text-center">Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                           
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="jumbotron">
+                                <h1 class="text-center">Systeme d'exploitation</h1>
+                                <p class="lead text-center">Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                           
+                            </div>
+                        </div>
+                        <div class="carousel-item" >
+                            <div class="jumbotron">
+                                <h1 class="text-center">Réseau informatique</h1>
+                                <p class="lead text-center">Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                           
+                            </div>
+                        </div>
+                    </div>
+
+                    <a class="carousel-control-prev" href="#mainCarousel" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#mainCarousel" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+                        </article>
+                    </div>
+
+
+                    <!-- Sidebar -->
+                    <aside class="col-md-4">
+                        <div class="sidebar-box">
+                            <h4>MODULES</h4>
+                            <div class="list-group list-group-root">
+                                <a class="list-group-item" href="#">HTML-CSS-BOOTSTRAP</a>
+                                <a class="list-group-item active" href="#about">PHP</a>
+                                <a class="list-group-item" href="#style-examples">JAVA</a>
+                         
+                                <a class="list-group-item" href="#three-column">JAVASCRIPT</a>
+                                <a class="list-group-item" href="#one-column">RESEAU INFORMATIQUE</a>
+                                <a class="list-group-item" href="#contact">SYSTEME D'EXPLOITATION</a>	
+                             
+                                <a class="list-group-item" href="#three-column">LARAVEL</a>
+                                <a class="list-group-item" href="#">LANGAGE C#</a>
+                                <a class="list-group-item" href="#">PYTHON</a>
+                                <a class="list-group-item" href="#">SWIFT</a>
+                                <a class="list-group-item" href="#"> XAMARIN</a>
+                                <a class="list-group-item" href="#"> LINUX</a>
+                                <a class="list-group-item" href="#"> ANGULAR-IONIC</a>
+                                <a class="list-group-item" href="#"> NODE JS</a>
+                            </div>
+                        </div>
+                     </aside> 
+
+                </div>
+            </div> 
+        </section>
+        
+        
+        
+        <!-- Style Examples / Right sidebar -->
+        <div id="style-examples" class="jumbotron-wrap colored-bg-container">
+            <div class="container">
+                <div class="jumbotron">
+                    <h1 class="text-center">Communauté NAN</h1>
+                </div>
+            </div>
+        </div>
+
+ 
+        <!-- Three column content layout -->
+        <section id="three-column">
+            <div class="container">
+                <div class="row">
+                    
+                    <!-- Main content -->
+                    <div class="col-md-12">
+
+                        <article>
+                            <div class="jumbotron-wrap ">
+                            <h1 class="text-center">Prochaine Rentrée NAN</h1>
+                            </div>
+                            <p>Comme chaque année Nan lance un concour pour l'adhésion dans l'école via <a href="https://nan.ci">nan.ci</a></p>
+
+                            <h3> Processus du concours</h3>
+
+                            <p>Le test se fait sur plusieurs etapes qui sont axées sur la logique pour donner la possibilité à tout particulier exercant ou non dans l'informatique de tenter l'aventure afin de devenir un programmeur atypique .
+                            A NAN on a trois(3) Tests dont le premier en ligne pour faire la selection.
+                        Ensuite un test physique sur les Imacs de l'école en pour le deuxième test et enfin un troisième test encore plus élévé que les autres .</p>
+
+                           <center> <a href="#" class="btn btn-secondary">Postuler</a></center>
+                        </article>
+
+                    </div>
+
+                </div> 
+            </div>
+        </section>
+        
+
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-lists">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm">
+                            <ul>
+                                <p>footer</p>
+                            </ul>
+                        </div> 
+                        <div class="col-sm">
+                            <ul>
+                                <p>footer</p>
+                            </ul>
+                        </div>
+                        <div class="col-sm">
+
+                            <p class="social-icons">
+                                <p>footer</p>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="footer-bottom">
+                    <p class="text-center">Not a Number.</p>
+            </div>
+            
+        </footer>
+
+
+
+        <!-- Bootcamp JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+        <script src="//cdn.rawgit.com/mrdoob/three.js/master/build/three.min.js"></script>
+        <script type="text/javascript" src="script.js"></script>
+
+    </body>
+</html>

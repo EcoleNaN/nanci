@@ -1,179 +1,325 @@
-		*******>>>>  CONTENU NaN.CI <<<<********
-
-
-
+	*******>>>>  CONTENU NaN.CI <<<<********
 
 /***Accueil****/
 
 1->>>Section1:
+
+
 	<span class="sous-explain"> Des cours, mais pas de professeurs...</span><br />
-	NaN est une ecole Atypique et surtout gratuite, ouverte à tous et accessible aux 18-25 ans. 
-	NaN offre une formation avec un modèle pégagogique Atypique qui coupe les ponts avec le système traditionnel :
-	Le le blended learning : Cette méthode consiste à allier e-learning et formation en présentiel, un fonctionnement participatif qui permet aux e´tudiants de libe´rer toute leur cre´ativite´ grâce à l’apprentissage par projets.
+
+
+	NaN est une Ã©cole Atypique et surtout gratuite, ouverte Ã  tous et accessible aux 18-25 ans. 
+
+
+	NaN offre une formation avec un modÃ¨le pÃ©dagogique Atypique qui coupe les ponts avec le systÃ¨me traditionnel :
+
+
+	Le blended learning : Cette mÃ©thode consiste Ã  allier e-learning et formation en prÃ©sentiel, un fonctionnement participatif qui permet aux Ã©tudiants de libÃ©rer toute leur crÃ©ativitÃ©Â´ grÃ¢ce Ã  lâ€™apprentissage par projets.
+
+
 
 2->>>Section2:
-	Entrez à NaN est le resultats d'un test, et tenez vous bien, <b>un test qui dure tout le long de la formation</b> &#9786 bizzard !
-	Les etudiants sont formés suivant plusieurs modules que sont : <b>le developpement web,  mobile,  destop, </b> de manière général.<br>  <b>Pour au final, développer des solution numerique fiables,
-	 créer des Jeux, monter votre start-up, ou encore enrichir votre savoir déjà acquit.</b> <br>
-	Et dans cette fièvre Naniene de suivit dans la formation par l'auto-formation, découvrir, resoudre des problèmes, <b>innover et avoir toujours un haut niveau </b>, ne devient qu'une seconde nature .
-						
+
+
+	Entrez Ã  NaN est le rÃ©sultats d'un test, et tenez vous bien, <b>un test qui dure tout le long de la formation</b> &#9786 bizarre !
+
+
+	Les Ã©tudiants sont formÃ©s suivant plusieurs modules que sont : <b>le dÃ©veloppement web, mobile, desktop, </b> de maniÃ¨re gÃ©nÃ©ral. <br>  <b>Pour au final, dÃ©velopper des solutions numÃ©riques fiables,
+
+
+	 crÃ©er des Jeux, monter votre start-up, ou encore enrichir votre savoir dÃ©jÃ  acquit. </b> <br>
+
+
+	Et dans cette fiÃ¨vre Naniene de suivit dans la formation par l'auto-formation, dÃ©couvrir, rÃ©soudre des problÃ¨mes, <b>innover et avoir toujours un haut niveau </b>, ne devient qu'une seconde nature.
+
 
 3->>>Section3:
-	Une communauté de dévéloppeurs active, à laquelle se mêle des experts au travers du serveur discord : NaN stack, de facebook, et du Réseaux social NaN. <br>
-	Communiquer avec des personnes qui partagent vos centres d'intérêt. <br><br> faite le pas et decouvrez un monde totalement atypique, un monde de geek (emogie sourire).						 
-						
 
+
+	Une communautÃ© de dÃ©veloppeurs active, Ã  laquelle se mÃªle des experts au travers du serveur discord : NaN stack, de Facebook, et du RÃ©seaux social NaN. <br>
+
+
+	Communiquer avec des personnes qui partagent vos centres d'intÃ©rÃªt. <br><br> faite le pas et dÃ©couvrez un monde totalement atypique, un monde de geek (emogie sourire).						 
 
 
 /*****Ecole****/
 
 1->>>La Piscine
-	->>Section1 :
-	la piscine c'est la dernière étape du teste d'entrée à NaN. c'est l'épreuve qui décide de votre admission définitive à NaN.
-	l'objectif étant de retenir ceux qui sortiront de l'eau, enfin du lot, nous vous immergeons dans l'envirronnement Nanien, face à des testes atypique.
-	projet informatique, teste psycho-technique, teste psychologique ... vous ne saurez le contenu de la piscine qu'une fois que vous y serai.
-	encore, la piscine est en réalité une chance, une chance de rencontrer des personne avec qui vous partagez la même passion, une chance de vous frotter aux meilleurs.
-	Rassurez-vous le programme de la Piscine part de zéro et ne vous demande aucune connaissance préalable… mis à part savoir se servir d’une souris et d’un clavier.
-	Sortez de l'eau et vous êtes admis à NaN.
 
-	->>Section2: Comment accéder à la piscsine
-	Vous avez entre 18 et 25 ans ? si oui, alors vous avez accès à la piscine. enfin, presque ! il ne vous restera que quelques étape pour justifier cette admission naturelle. 
+	->>Section1 :
+
+	la piscine c'est la derniÃ¨re Ã©tape du teste d'entrÃ©e Ã  NaN. c'est l'Ã©preuve qui dÃ©cide de votre admission dÃ©finitive Ã  NaN.
+
+
+	l'objectif Ã©tant de retenir ceux qui sortiront de l'eau, enfin du lot, nous vous immergeons dans l'environnement Nanien, face Ã  des testes atypique.
+
+
+	projet informatique, teste psychotechnique, teste psychologique ... vous ne saurez le contenu de la piscine qu'une fois que vous y serai.
+
+
+	encore, la piscine est en rÃ©alitÃ© une chance, une chance de rencontrer des personne avec qui vous partagez la mÃªme passion, une chance de vous frotter aux meilleurs.
+
+
+	Rassurez-vous le programme de la Piscine part de zÃ©ro et ne vous demande aucune connaissance prÃ©alableâ€¦ mis Ã  part savoir se servir dâ€™une souris et dâ€™un clavier.
+
+
+	Sortez de l'eau et vous Ãªtes admis Ã  NaN.
+
+
+	->>Section2: Comment accÃ©der Ã  la piscine
+
+	Vous avez entre 18 et 25 ans ? si oui, alors vous avez accÃ¨s Ã  la piscine. enfin, presque ! il ne vous restera que quelques Ã©tapes pour justifier cette admission naturelle. 
+
 
 	->> Section3: 
+
+
 		->L'inscription
-		accéder facilement à l'espace de cadidature de la prochaine session de NaN en cliquant sur je candidate, et remplissez le formulaire qui vous est  soumis.
-		L’inscription en Piscine se fait uniquement sur cet espace de candidature : aucune inscription par mail ou en vous rendant à l’école n’est possible.
+
+
+		accÃ©der facilement Ã  l'espace de candidature de la prochaine session de NaN en cliquant sur je candidate, et remplissez le formulaire qui vous est  soumis.
+
+
+		Lâ€™inscription en Piscine se fait uniquement sur cet espace de candidature : aucune inscription par mail ou en vous rendant Ã  lâ€™Ã©cole nâ€™est possible.
+
+
 		->Le teste en ligne
-		Encore appelé le grand bassin, il constitue le premier teste d'entrée a NaN. Il vous permettra, à vous de justifier votre accès à la piscine, et à nous
- 		d'être certain que vous avez les capacités requises pour nous rejoindre
+
+
+		Encore appelÃ© le grand bassin, il constitue le premier teste d'entrÃ©e a NaN. Il vous permettra, Ã  vous de justifier votre accÃ¨s Ã  la piscine, et Ã  nous
+
+
+ 		d'Ãªtre certain que vous avez les capacitÃ©s requises pour nous rejoindre
+
+
 		->La Piscine
-		Entrez maintenant dans l'univers NaNien, en choisissant votre jour de passage à la piscine.
+
+
+		Entrez maintenant dans l'univers NaNien, en choisissant votre jour de passage Ã  la piscine.
+
+
 		vous recevrez le lien de la plateforme de passage par mail.
 
-	->> Secion4 :  Les résultats
-	Un à deux jours passersons histoire de garder le suspense (rire). Et vous recevrez un mail pour vous félicité de votre admission à NaN.
-	L'annonce des srésultats définitif se fera aussi via les réseaux sociaux.
+
+
+	->> Secion4 :  Les rÃ©sultats
+
+
+	Un Ã  deux jours passerons histoire de garder le suspense (rire). Et vous recevrez un mail pour vous fÃ©licitÃ© de votre admission Ã  NaN.
+
+
+	L'annonce des rÃ©sultats dÃ©finitif se fera aussi via les rÃ©seaux sociaux.
+
+
 
 	->> Section5 :
-	Dépêchez vous de vous inscrire. nous vous attendons avec impatience (sourire)
 
 
+	DÃ©pÃªchez vous de vous inscrire. nous vous attendons avec impatience (sourire)
 
 
 
 2->>>Le Programme
+
+
 	->>Section1: 
-	Le programme de formation l'école NaN à pour premier atouts d'être très flexible. Les etudiants on la possibilité de mettre en place leur propre programme de formation,
-	en ce basant sur les modules de formation proposé par NaN.
-	La prémière Année à NaN s'étend sur trois grand groupe de module de formation.
+
+
+	Le programme de formation l'Ã©cole NaN Ã  pour premier atouts d'Ãªtre trÃ¨s flexible. Les Ã©tudiants on la possibilitÃ© de mettre en place leur propre programme de formation,
+
+
+	en ce basant sur les modules de formation proposÃ© par NaN.
+
+
+	La premiÃ¨re AnnÃ©e Ã  NaN s'Ã©tend sur trois grand groupe de module de formation.
+
+
 		*- Le groupe des modules du web : qui comprend le front-end et le back-end web
-		*- Le groupe des modules système, réseaux et base de Donné
+
+
+		*- Le groupe des modules systÃ¨me, rÃ©seaux et base de DonnÃ©
+
+
 		*- Le groupe des modules technologie native
-	il est a noté que, pour tous les étudiants de NaN, le groupe des module du web est obligatoire. 
+
+
+	il est a notÃ© que, pour tous les Ã©tudiants de NaN, le groupe des modules du web est obligatoire. 
+
 
 	->> Section2:
+
+
 	Organigramme des modules de formation.
 
-	->> Section3: La Bibliothèque NaN
-	NaN met à la disposition de tout les Naniens, une bibliothèque de cours et formation sur divers domaine de l'informatique.
-	Pour vous les passionnés de tech c'est en quelque sorte une boîte à pandore (rire). Vous y retrouvez des cours qui ne font pas, dans certains cas, partie des modules de formation de NaN.
-	C'est un reservoir du savoir dans lequel vous pouvez vous servir à volonté.
-	
+
+	->> Section3: La BibliothÃ¨que NaN
+
+
+	NaN met Ã  la disposition de tout les Naniens, une bibliothÃ¨que de cours et formation sur divers domaines de l'informatique.
+
+
+	Pour vous les passionnÃ©s de Tech c'est en quelque sorte une boÃ®te Ã  pandore (rire). Vous y retrouvez des cours qui ne font pas, dans certains cas, partie des modules de formation de NaN.
+
+
+	C'est un rÃ©servoir du savoir dans lequel vous pouvez vous servir Ã  volontÃ©.
+
+
 	->> Section4: les certifications.
-	Vous pourrez conjointement à votre formation, passer des certifications. vous devriez pour ce faire contacter le service certification de NaN
 
 
-
-
+	Vous pourrez conjointement Ã  votre formation, passer des certifications. vous devriez pour ce faire contacter le service certification de NaN
 
 
 3->>>L'environnement de travail
+
+
 	->> Section 1:
-	l'univers NaN c'est aussi sont espace de travaille. un cadre agréable totalement équipé d'outils informatique, qui vaforise le dévéloppement du potiel individuel, mais aussi collectif.
-	Un espace Wi-Fi pour ceux des Nanien qui préfère être sur leur propre appareil. 
-	l'accès à ce cadre dédié ce fait via des réservations. vous êtes totalement libre de vous rendre dans les locaux de NaN en fonction de votre disponibilité, en ayant préalablement informé l'équipe logistique.
-	
-	->> Section 2: A NaN pas de profésseur, mais des confrère
-	La stratégie d'apprentissage et basé sur le travaille collaboratif. ainsi chacun des étudiants participe à la formation de l'autre. votre premier profésseur et élève c'est votre confrère NaNien.
+
+
+	l'univers NaN c'est aussi sont espace de travaille. un cadre agrÃ©able totalement Ã©quipÃ© d'outils informatique, qui favorise le dÃ©veloppement du potentiel individuel, mais aussi collectif.
+
+
+	Un espace Wi-Fi pour ceux des Nanien qui prÃ©fÃ¨re Ãªtre sur leur propre appareil. 
+
+
+	l'accÃ¨s Ã  ce cadre dÃ©diÃ© ce fait via des rÃ©servations. vous Ãªtes totalement libre de vous rendre dans les locaux de NaN en fonction de votre disponibilitÃ©, en ayant prÃ©alablement informÃ© l'Ã©quipe logistique.
+
+
+
+	->> Section 2: A NaN pas de professeur, mais des confrÃ¨res
+
+
+	La stratÃ©gie d'apprentissage et basÃ© sur le travaille collaboratif. ainsi chacun des Ã©tudiants participe Ã  la formation de l'autre. votre premier professeur et Ã©lÃ¨ve c'est votre confrÃ¨re NaNien.
+
+
 	l'environnement de NaN, vous impose de travailler en groupe, d'apprendre des autres, d'apprendre aux autres. 
-	Pas de place à NaN pour les loups solitaire (rire).
 
 
+	Pas de place Ã  NaN pour les loups solitaire (rire).
 
 
+4->>>L'insertion professionnelle
 
-4->>>L'insertion proféssionnelle
+
 	->> Section 1:
-	Pour réussir son intégration dans le monde professionnel, rien n’est aussi efficace et formateur que de s’y frotter.
-	NaN au  travers de l'apprentissage par projet qu'elle initie, vous plonge dans le monde proféssionnel avec des projet réaliste, vous confrontant ainsi aux réalité de la programmation en entreprise.
-	Les étudiants snt amener dans le cadre de leur formation à réaliser des projets d'entreprise avec des dead-line précise, histoire de les mettre dans le bain
+
+	Pour rÃ©ussir son intÃ©gration dans le monde professionnel, rien nâ€™est aussi efficace et formateur que de sâ€™y frotter.
+
+
+	NaN au  travers de l'apprentissage par projet qu'elle initie, vous plonge dans le monde professionnel avec des projets rÃ©alistes, vous confrontant ainsi aux rÃ©alitÃ© de la programmation en entreprise.
+
+
+	Les Ã©tudiants sont amenÃ©s dans le cadre de leur formation Ã  rÃ©aliser des projets d'entreprise avec des dead-line prÃ©cise, histoire de les mettre dans le bain
+
 
 	->>Section 2: Offre de stage
-	Tout au long de la formation, aux les meilleurs étudiants de NaN des stages sont proposé.  Libre à eux de les accepter ou pas, car à NaN chaque étudiant est responsable de sa formation.
-	Après trois année de formation les étudiants entre en entrprise pour ceux qui le veulent, pour acquerir de l'expérience dans un cadre purement proféssionnel
+
+
+	Tout au long de la formation, aux les meilleurs Ã©tudiants de NaN des stages sont proposÃ©s.  Libre Ã  eux de les accepter ou pas, car Ã  NaN chaque Ã©tudiant est responsable de sa formation.
+
+
+	AprÃ¨s trois annÃ©e de formation les Ã©tudiants entre en entreprise pour ceux qui le veulent, pour acquÃ©rir de l'expÃ©rience dans un cadre purement professionnel
 
 
 
 
+/****La pÃ©dagogie****/
 
 
-
-/****La pédagogie****/
 
 5->>>Le blended learning
-	->>Section 1 : Notre Pédagogie atypique
-	<h4> La pédagogie de NaN se fonde sur le blended learning, ou « pédagogie hybride ». </h4>
 
-	Cette méthode consiste à allier e-learning et formation en présentiel  :
 
-	Être dans les locaux de NaN permet de créer une communauté d’apprenants et renforce la mobilisation de chacun. C’est un point essentiel pour rester motivé et atteindre les objectifs de la formation!
-	L’utilisation du numérique et de notre plateforme pédagogique "cursus.nan.ci" facilite la pratique : tout ce qui est appris peut être rapidement mis en application.
-	La pédagogie hybride démultiplie l’efficacité de la formation et permet aux étudiants d'accroitre leur connaissance au travers de leur propre recherche.
-	Les contenus sont mis à disposition des Etudiants qui en prennent connaissance avnat les projets. Le temps d’apprentissage avec le groupe est donc entièrement consacré à la mise en application de ce qui a été vu, et aux interactions entre Etudiants.
+	->>Section 1 : Notre PÃ©dagogie atypique
 
-	
-	->> Section 2: 3 sources d’apprentissage dans Notre pédagogie hybride
-	
-		-> Source1 :La plateforme pédagogique
-		Notre plateforme pédagogique "Cursus-NaN", offre aux élèves une expérience unique d’apprentissage :
 
-		Chaque étudiant dispose d’un espace personnel dans lequel il suit les cours mis à sa disposition et visualise son avancement.
+	<h4> La pÃ©dagogie de NaN se fonde sur le blended learning, ou Â« pÃ©dagogie hybride Â». </h4>
 
-		A la fin de chaque module les Etudiants  sont amemer à evaluer leur connaissance à travers des quiz et des testes pratique directement sur la plateforme, peuvent solliciter l’aide de la communauté pour trouver ou vérifier des solutions (peer to peer learning) ;
+	Cette mÃ©thode consiste Ã  allier e-learning et formation en prÃ©sentiel :
 
-		Dans leurs progressions, Ils sont obligés de valider un module afin de débloquer le module suivant, sinon ils sont éjectés du système. (histoire de pimenter un peu l'avantur)
+	ÃŠtre dans les locaux de NaN permet de crÃ©er une communautÃ© dâ€™apprenants et renforce la mobilisation de chacun. Câ€™est un point essentiel pour rester motivÃ© et atteindre les objectifs de la formation!
 
-		Ils peuvent aussi accéder à la bibliothèque NaN, au ce trouve une multitude de contenus pour éguiser leur savoir
 
-		Les Etudiant progressent à leur rythme, en réalisant des quêtes – association d’un tutoriel, d’un exercice et d’un challenge qui permet de mettre en pratique le concept abordé.
+	Lâ€™utilisation du numÃ©rique et de notre plateforme pÃ©dagogique "cursus.nan.ci" facilite la pratique : tout ce qui est appris peut-Ãªtre rapidement mis en application.
 
-	
+
+	La pÃ©dagogie hybride dÃ©multiplie lâ€™efficacitÃ© de la formation et permet aux Ã©tudiants d'accroitre leur connaissance au travers de leur propre recherche.
+
+
+	Les contenus sont mis Ã  disposition des Etudiants qui en prennent connaissance avant les projets. Le temps dâ€™apprentissage avec le groupe est donc entiÃ¨rement consacrÃ© Ã  la mise en application de ce qui a Ã©tÃ© vu, et aux interactions entre Etudiants.
+
+
+	->> Section 2: 3 sources dâ€™apprentissage dans Notre pÃ©dagogie hybride
+
+
+		-> Source1 : La plateforme pÃ©dagogique
+
+
+		Notre plateforme pÃ©dagogique "Cursus-NaN", offre aux Ã©lÃ¨ves une expÃ©rience unique dâ€™apprentissage :
+
+		Chaque Ã©tudiant dispose dâ€™un espace personnel dans lequel il suit les cours mis Ã  sa disposition et visualise son avancement.
+
+		A la fin de chaque module les Etudiants  sont amener Ã  Ã©valuer leur connaissance Ã  travers des quiz et des testes pratique directement sur la plateforme, peuvent solliciter lâ€™aide de la communautÃ© pour trouver ou vÃ©rifier des solutions (Peer to Peer learning) ;
+
+
+		Dans leurs progressions, Ils sont obligÃ©s de valider un module afin de dÃ©bloquer le module suivant, sinon ils sont Ã©jectÃ©s du systÃ¨me. (histoire de pimenter un peu l'aventure)
+
+		Ils peuvent aussi accÃ©der Ã  la bibliothÃ¨que NaN, ou ce trouve une multitude de contenus pour enrichir leur savoir
+
+
+		Les Etudiant progressent Ã  leur rythme, en rÃ©alisant des quÃªtes â€“ association dâ€™un tutoriel, dâ€™un exercice et dâ€™un challenge qui permet de mettre en pratique le concept abordÃ©.
+
+
 		->Source2 :
-		Le sytème de parainage et les Ateliers
-		Selon leur zone d'habitation, nos étudiants sont regroupés et suivi par des parrains c-a-d leurs grands frères de la promotion sortante.
-		Les ateliers sont des sessions de travail d’environ 2 heures, consacrées à la mise en pratique. Ils peuvent avoir une durée variable et permettent de zoomer sur une notion, une compétence ou un thème particulier.
+
+
+		Le systÃ¨me de parrainage et les Ateliers
+
+
+		Selon leur zone d'habitation, nos Ã©tudiants sont regroupÃ©s et suivi par des parrains c.-Ã -d. leurs grands frÃ¨res de la promotion sortante.
+
+
+		Les ateliers sont des sessions de travail dâ€™environ 2 heures, consacrÃ©es Ã  la mise en pratique. Ils peuvent avoir une durÃ©e variable et permettent de zoomer sur une notion, une compÃ©tence ou un thÃ¨me particulier.
 
 		->Source3 :
+
+
 		Les projets
-		Learning-by-doing est au coeur de notre approche pédagogique.
-		Les élèves réalisent plusieurs projets au cours de la session, dont un « projet client » qui sera réalisé pour une entreprise partenaire de l’école. 
-		Les différents projets réalisés constituent le portfolio personnel de l’élève. 
-		Ce portfolio permettra de valoriser les compétences et l’expérience acquises auprès des recruteurs.
+
+
+		Learning-by-doing est au cÅ“ur de notre approche pÃ©dagogique.
+
+
+		Les Ã©lÃ¨ves rÃ©alisent plusieurs projets au cours de la session, dont un Â« projet client Â» qui sera rÃ©alisÃ© pour une entreprise partenaire de lâ€™Ã©cole. 
+
+
+		Les diffÃ©rents projets rÃ©alisÃ©s constituent le portfolio personnel de lâ€™Ã©lÃ¨ve. 
+
+
+		Ce portfolio permettra de valoriser les compÃ©tences et lâ€™expÃ©rience acquises auprÃ¨s des recruteurs.
 
 
 6->>>La Gamification
-	
-		
+
+
 
 	->>Section1:
-	La progression des NaNiens, est semblable à celle des personnages d'un jeu d'arcade.
-	En fonction de votre évolution dans la maîtrise d'une technologie, vous acquerez des CEINTURES.
-	De la blanche à la noir, vous devenez de pus en plus fort, un peu comme dans un DOGO.
 
-	->>Section2: image représentative.
+
+	La progression des NaNiens, est semblable Ã  celle des personnages d'un jeu d'arcade.
+
+
+	En fonction de votre Ã©volution dans la maÃ®trise d'une technologie, vous acquÃ©rez des CEINTURES.
+
+
+	De la blanche Ã  la noir, vous devenez de pus en plus fort, un peu comme dans un DOGO.
+
+
+	->>Section2: image reprÃ©sentative.
+
 
 	->>Section3: Les battles
-	Si vous croyez être suffisament puissant, vous pouvez demander une battle, hors de celles qu'organise NaN à la fin de chaque module, piur vous confronter aux autres.
-	
 
-	
+
+	Si vous croyez Ãªtre suffisamment puissant, vous pouvez demander une battle, hors de celles qu'organise NaN Ã  la fin de chaque module, pour vous confronter aux autres.
+
